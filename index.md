@@ -1,3 +1,3 @@
 # Example PyPi Index
 
-- [pypi_package](https://github.com/joshcameron/example-pypi) - An example package
+- [joshcameron-example-package](https://github.com/joshcameron/example-package) - An example package
