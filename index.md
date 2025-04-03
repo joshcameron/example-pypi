@@ -1,3 +1,3 @@
 # Example PyPi Index
 
-- [joshcameronexamplepackage](https://github.com/joshcameron/example-package) - An example package
+- [flannel-zygote](https://github.com/joshcameron/flannel-zygote) - Flannel Zygote
