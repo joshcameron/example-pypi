@@ -1,3 +1,3 @@
 # Example PyPi Index
 
-- [flannel-zygote](https://github.com/joshcameron/flannel-zygote-dist/) - flannel-zygote
+- [flannel-zygote](https://github.com/joshcameron/flannel-zygote-dist/)flannel-zygote
